@@ -6,6 +6,6 @@ The publicly available data from the 2013-2020 period is accessible at the EEA s
 In this analysis, I have re-analysed the data to support/confirm Prof. A.E. Kideys’s Excel work,  using Python.  
 
 Main Insights:  
-Litter counts were increasing until 2017 after which a decreased trend was observed at the European level.  
-The most polluted sea in Europe was the Black Sea.  
-The most occuring litter items were cigarette butts/filters, plastic pieces, plastic caps/drink lids.
+* Litter counts were increasing until 2017 after which a decreased trend was observed at the European level.  
+* The most polluted sea in Europe was the Black Sea.  
+* The most occuring litter items were cigarette butts/filters, plastic pieces, plastic caps/drink lids.
